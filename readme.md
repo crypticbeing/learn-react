@@ -28,4 +28,6 @@
 Where to go after learning React?
 --React is not a complete solution (SEO, browser rendering, routing)
 --NEXT js, Gatsby, Remix
---
+
+--what attachments you got with react library?
+//With React library I got React Dom and react native.
