@@ -1,7 +1,7 @@
 --why react?
 //to manage and build complex front ends
 
---Ehy should I learn react?
+--why should I learn react?
 //if you master in JS, most project doesn't need react in initial pahse.
 
 --Why react was created?
@@ -31,3 +31,7 @@ Where to go after learning React?
 
 --what attachments you got with react library?
 //With React library I got React Dom and react native.
+//so basically react-dom is for web apps and reactnative is for mobile apps
+
+--What is DOM (Document Object Model?)
+//In DOM, we can see the website as an document like when the webpage loads it represent the HTML structure in a tree like model, where we can see text and attributes as an object in the DOM tree, which you can access and manupaulate with javascript using "document.getelementbyID"
